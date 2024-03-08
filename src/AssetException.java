@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class AssetException {
+public class AssetException extends Exception{
+    public AssetException(String message){
+        super(message);
+    }
 }

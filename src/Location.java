@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Location {
+public interface Location {
+    public String getDescription();
 }

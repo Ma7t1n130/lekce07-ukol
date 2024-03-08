@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public enum ComputerType {
+public enum ComputerType {
+    LAPTOP,
+    DESKTOP,
+    TABLET
+
 }
